@@ -1,5 +1,8 @@
 _repo: The-Corset-and-the-Crinoline-A-Book-of-Modes-and-Costumes-from-Remote-Periods-to-the-Present-__53267
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53267-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Lord, William Barry
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '47292'
     url: http://www.gutenberg.org/2009/agents/47292
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53267#The-Corset-and-the-Crinoline-A-Book-of-Modes-and-Costumes-from-Remote-Periods-to-the-Present-_
 gutenberg_issued: '2016-10-12'
 gutenberg_type: Text
 identifiers:
